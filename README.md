@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ...
+- My name is Marcos Vinicius, and i studyng Development. My objectve is to be Full-Stack, but at the moment i'm focus on Front-End.
+- If you want to contribute with my journey, please contact me.
+
+
+
